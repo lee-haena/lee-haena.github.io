@@ -1,9 +1,57 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+#"AJP":
+#  url: https://aapt.scitation.org/journal/ajp
+#  color: "#00369f"
+#
+#"PhysRev":
+#  url: https://journals.aps.org/
+#
+#"Vision":
+#  color: "#009f36"
 
-"PhysRev":
-  url: https://journals.aps.org/
+## Conferences
+"CHI":
+  url: https://dl.acm.org/conference/chi
+  color: "#002E8B"
 
-"Vision":
-  color: "#009f36"
+"IUI":
+  url: https://dl.acm.org/conference/iui
+  color: "#002E8B"
+
+"ASSETS":
+  url: https://dl.acm.org/conference/assets
+  color: "#002E8B"
+
+"HT":
+  url: https://dl.acm.org/conference/ht
+  color: "#002E8B"
+
+"SMC":
+  url: https://www.ieeesmc.org/
+  color: "#002E8B"
+
+"HCII":
+  url: https://www.hci.international/
+  color: "#002E8B"
+
+"ICIP":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings
+  color: "#002E8B"
+
+
+## Journals
+"PACMHCI":
+  url: https://dl.acm.org/journal/pacmhci
+  color: "#057B46"
+
+"TACCESS":
+  url: https://dl.acm.org/journal/taccess
+  color: "#057B46"
+
+"TIIS":
+  url: https://dl.acm.org/journal/tiis
+  color: "#057B46"
+
+
+## Thesis
+"Thesis":
+  color: "#F1C2E6"
