@@ -35,9 +35,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 -->
 
 I am an Assistant Professor in the [Department of Computer Science and Engineering](https://engineering.msu.edu/about/departments/cse) at [Michigan State University](https://msu.edu/). 
-I received my PhD from the Department of Computer Science at Stony Brook University, advised by Prof. I.V. Ramakrishnan.
+I received my PhD from the [Department of Computer Science](https://www.cs.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu/).
 
 My research area includes Human-Computer Interaction, Human-Centered Artificial Intelligence, and Accessible Computing.
-I am interested in designing and building AI-powered intelligent user interfaces to support better human-computer interaction.
+I am interested in designing and building AI-powered intelligent user interfaces to provide better human-computer interaction experience to users.
 
 <br>
