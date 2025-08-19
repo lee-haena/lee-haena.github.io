@@ -1,200 +1,442 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+//  "basics": {
+//    "name": "Hae-Na Lee",
+//    "label": "Assistant Professor",
+//    "image": "",
+//    "email": "leehaena@msu.edu",
+//    "phone": "",
+//    "url": "https://lee-haena.github.io/",
+//    "summary": "",
+//    "location": {
+//      "address": "Engineering Bldg, Rm 2128, 428 S Shaw Ln",
+//      "postalCode": "MI 48824",
+//      "city": "East Lansing",
+//      "countryCode": "US",
+//      "region": "Michigan"
+//    },
+//    "profiles": [
+//      {
+//        "network": "Twitter",
+//        "username": "AlbertEinstein",
+//        "url": "https://twitter.com/AlbertEinstein"
+//      }
+//    ]
+//  },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Michigan State University",
+      "position": "Assistant Professor",
+      "url": "",
+      "startDate": "2023-08-16",
+      "endDate": "",
+      "summary": "Department of Computer Science and Engineering",
+      "highlights": "" // [""]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Stony Brook University",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2019-01-01",
+      "endDate": "2023-05-01",
+      "summary": "Knowledge Systems Laboratory",
+      "highlights": "" // [""]
+    },
+    {
+      "name": "Meta Platforms, Inc.",
+      "position": "Software Engineer Intern",
+      "url": "",
+      "startDate": "2022-05-01",
+      "endDate": "2022-08-01",
+      "summary": "Instagram Relevance Integrity Team",
+      "highlights": "" // [""]
+    },
+    {
+      "name": "Broadridge Financial Solutions",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2019-06-01",
+      "endDate": "2019-08-01",
+      "summary": "Broadridge Innovation Laboratory",
+      "highlights": "" // [""]
+    },
+    {
+      "name": "Korea Institute of Science and Technology",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2015-03-01",
+      "endDate": "2016-08-01",
+      "summary": "Center for Robotics Research",
+      "highlights": "" // [""]
+    },
+    {
+      "name": "Seoul National University",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2013-03-01",
+      "endDate": "2015-02-01",
+      "summary": "Artificial Intelligence and Computer Vision Laboratory",
+      "highlights": "" // [""]
     }
   ],
+//  "volunteer": [
+//    {
+//      "organization": "People's Climate March",
+//      "location": "Zurich, Switzerland",
+//      "position": "Lead Organizer",
+//      "url": "https://example.com",
+//      "startDate": "2014-04-01",
+//      "endDate": "2015-07-01",
+//      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+//      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+//    }
+//  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Stony Brook University",
+      "location": "Stony Brook, NY",
+      "url": "",
+      "area": "",
+      "studyType": "Ph.D. in Computer Science",
+      "startDate": "2016", // "2016-08-22",
+      "endDate": "2023", // "2023-05-17",
+      "score": "",
+      "courses": ["Thesis: Enhancing the Usability of Computer Applications for People with Visual Impairments via UI Augmentation"]
+    },
+    {
+      "institution": "Seoul National University",
+      "location": "Seoul, South Korea",
+      "url": "",
+      "area": "",
+      "studyType": "M.S. in Electrical Engineering and Computer Science",
+      "startDate": "2013", // "2013-03-04",
+      "endDate": "2015", // "2015-02-25",
+      "score": "",
+      "courses": ["Thesis: Image Classification using SVM Classifier Learned by AdaBoost Method"]
+    },
+    {
+      "institution": "Sookmyung Women's University",
+      "location": "Seoul, South Korea",
+      "url": "",
+      "area": "",
+      "studyType": "B.S. in Computer Science",
+      "startDate": "2009", // "2009-03-02",
+      "endDate": "2013", // "2013-02-14",
+      "score": "",
+      "courses": ["Magna Cum Laude"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "CHI Honorable Mention Award",
+      "date": "2024",
+      "awarder": "ACM Conference on Human Factors in Computing Systems (CHI)",
+      "url": "",
+      "summary": "CHI 2024 Best Paper Honorable Mention Award (Top 5%)"
+    },
+    {
+      "title": "Excellence as a TA Award",
+      "date": "2019",
+      "awarder": "Department of Computer Science, Stony Brook University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "University Fellowship",
+      "date": "2016",
+      "awarder": "Stony Brook University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Global PhD Fellowship",
+      "date": "2013",
+      "awarder": "National Research Foundation of Korea",
+      "url": "",
+      "summary": "Research Topic: Image Classification using Sparse and Hierarchical Representation of Classified Object Image Data"
+    },
+    {
+      "title": "Academic Excellence Scholarship",
+      "date": "2013",
+      "awarder": "Seoul National University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Academic Excellence Scholarship",
+      "date": "2009",
+      "awarder": "Sookmyung Women's University",
+      "url": "",
+      "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+//  "certificates": [
+//    {
+//      "name": "Machine Learning",
+//      "date": "2018-01-01",
+//      "issuer": "Stanford University",
+//      "url": "https://example.com",
+//      "icon": "fa-solid fa-location-dot"
+//    },
+//    {
+//      "name": "Quantum Computing",
+//      "date": "2018-01-01",
+//      "issuer": "Stanford University",
+//      "url": "https://example.com",
+//      "icon": "fa-solid fa-tag"
+//    },
+//    {
+//      "name": "Quantum Information",
+//      "date": "2018-01-01",
+//      "issuer": "Stanford University",
+//      "url": "https://example.com",
+//      "icon": "fa-solid fa-envelope"
+//    },
+//    {
+//      "name": "Quantum Cryptography",
+//      "date": "2018-01-01",
+//      "issuer": "Stanford University",
+//      "url": "https://example.com",
+//      "icon": "fa-solid fa-hashtag"
+//    },
+//    {
+//      "name": "Quantum Communication",
+//      "date": "2018-01-01",
+//      "issuer": "Stanford University",
+//      "url": "https://example.com",
+//      "icon": "fa-solid fa-calendar"
+//    },
+//    {
+//      "name": "Quantum Teleportation",
+//      "date": "2018-01-01",
+//      "issuer": "Stanford University",
+//      "url": "https://example.com",
+//      "icon": "fa-solid fa-clipboard-check"
+//    }
+//  ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Caregiving Artificial Intelligence Chatbot for Older Adults and Their Preferences, Well-Being, and Social Connectivity: Mixed-Method Study",
+      "publisher": "Brooke H Wolfe, Yoo Jung Oh, Hyesun Choung, Xiaoran Cui, Joshua Weinzapfel, R Amanda Cooper, <b>Hae-Na Lee</b>, Rebecca Lehto",
+      "releaseDate": "2025",
+      "url": "https://www.jmir.org/2025/1/e65776/",
+      "summary": "Proceedings of the ACM on Human-Computer Interaction"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Towards Enhancing Low Vision Usability of Data Charts on Smartphones",
+      "publisher": "Yash Prakash, Pathan Aseef Khan, Akshay Kolgar Nayak, Sampath Jayarathna, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2025",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10684987",
+      "summary": "IEEE Transactions on Visualization and Computer Graphics"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Improving Usability of Data Charts in Multimodal Documents for Low Vision Users",
+      "publisher": "Yash Prakash, Akshay Kolgar Nayak, Shoaib Mohammed Alyaan, Pathan Aseef Khan, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1145/3678957.3685714",
+      "summary": "Proceedings of the 26th International Conference on Multimodal Interaction"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Understanding Low Vision Graphical Perception of Bar Charts",
+      "publisher": "Yash Prakash, Akshay Kolgar Nayak, Sampath Jayarathna, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1145/3663548.3675616",
+      "summary": "Proceedings of the 26th International ACM SIGACCESS Conference on Computers and Accessibility"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Assessing the Accessibility and Usability of Web Archives for Blind Users",
+      "publisher": "Mohan Sunkara, Akshay Kolgar Nayak, Sandeep Kalari, Satwik Ram Kodandaram, Sampath Jayarathna, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2024",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-72437-4_12",
+      "summary": "Linking Theory and Practice of Digital Libraries"
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "All in One Place: Ensuring Usable Access to Online Shopping Items for Blind Users",
+      "publisher": "Yash Prakash, Akshay Kolgar Nayak, Mohan Sunkara, Sampath Jayarathna, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2024",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3664639",
+      "summary": "Proceedings of the ACM on Human-Computer Interaction"
+    },
+    {
+      "name": "Discovering Accessible Data Visualizations for People with ADHD",
+      "publisher": "Tien Tran, <b>Hae-Na Lee</b>, Ji Hwan Park",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1145/3613904.3642112",
+      "summary": "Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2024 Best Paper Honorable Mention Award (Top 5%))"
+    },
+    {
+      "name": "Enabling Customization of Discussion Forums for Blind Users",
+      "publisher": "Mohan Sunkara, Yash Prakash, <b>Hae-Na Lee</b>, and Sampath Jayarathna, Vikas Ashok",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1145/3593228",
+      "summary": "Proceedings of the ACM on Human-Computer Interaction"
+    },
+    {
+      "name": "Enabling Efficient Web Data-Record Interaction for People with Visual Impairments via Proxy Interfaces",
+      "publisher": "Javedul Ferdous, <b>Hae-Na Lee</b>, Sampath Jayarathna, Vikas Ashok",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1145/3579364",
+      "summary": "ACM Transactions on Interactive Intelligent Systems"
+    },
+    {
+      "name": "AutoDesc: Facilitating Convenient Perusal of Web Data Items for Blind Users",
+      "publisher": "Yash Prakash, Mohan Sunkara, <b>Hae-Na Lee</b>, Sampath Jayarathna, Vikas Ashok",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1145/3581641.3584049",
+      "summary": "Proceedings of the 28th International Conference on Intelligent User Interfaces"
+    },
+    {
+      "name": "Enabling Convenient Online Collaborative Writing for Low Vision Screen Magnifier Users",
+      "publisher": "<b>Hae-Na Lee</b>, Yash Prakash, Mohan Sunkara, I.V. Ramakrishnan, Vikas Ashok",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1145/3511095.3531274",
+      "summary": "Proceedings of the 33rd ACM Conference on Hypertext and Social Media"
+    },
+    {
+      "name": "Customizable Tabular Access to Web Data Records for Convenient Low-vision Screen Magnifier Interaction",
+      "publisher": "<b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1145/3517044",
+      "summary": "ACM Transactions on Accessible Computing"
+    },
+    {
+      "name": "Impact of Out-of-Vocabulary Words on the Twitter Experience of Blind Users",
+      "publisher": "<b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1145/3491102.3501958",
+      "summary": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems"
+    },
+    {
+      "name": "InSupport: Proxy Interface for Enabling Efficient Non-Visual Interaction with Web Data Records",
+      "publisher": "Javedul Ferdous, <b>Hae-Na Lee</b>, Sampath Jayarathna, Vikas Ashok",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1145/3490099.3511126",
+      "summary": "Proceedings of the 27th International Conference on Intelligent User Interfaces"
+    },
+    {
+      "name": "Towards Enhancing Blind Users' Interaction Experience with Online Videos via Motion Gestures",
+      "publisher": "<b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.1145/3465336.3475116",
+      "summary": "Proceedings of the 32nd ACM Conference on Hypertext and Social Media"
+    },
+    {
+      "name": "Bringing Things Closer: Enhancing Low-Vision Interaction Experience with Office Productivity Applications",
+      "publisher": "<b>Hae-Na Lee</b>, Vikas Ashok, IV Ramakrishnan",
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.1145/3457144",
+      "summary": "Proceedings of the ACM on Human-Computer Interaction"
+    },
+    {
+      "name": "TableView: Enabling Efficient Access to Web Data Records for Screen-Magnifier Users",
+      "publisher": "<b>Hae-Na Lee</b>, Sami Uddin, Vikas Ashok",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1145/3373625.3417030",
+      "summary": "Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility"
+    },
+    {
+      "name": "Screen Magnification for Office Applications",
+      "publisher": "<b>Hae-Na Lee</b>, Vikas Ashok, IV Ramakrishnan",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1145/3373625.3418049",
+      "summary": "Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility"
+    },
+    {
+      "name": "Repurposing Visual Input Modalities for Blind Users: A Case Study of Word Processors",
+      "publisher": "<b>Hae-Na Lee</b>, Vikas Ashok, I. V. Ramakrishnan",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1109/SMC42975.2020.9283015",
+      "summary": "2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)"
+    },
+    {
+      "name": "iTOC: Enabling Efficient Non-Visual Interaction with Long Web Documents",
+      "publisher": "<b>Hae-Na Lee</b>, Sami Uddin, Vikas Ashok",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1109/SMC42975.2020.9282972",
+      "summary": "2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)"
+    },
+    {
+      "name": "Rotate-and-Press: A Non-visual Alternative to Point-and-Click?",
+      "publisher": "<b>Hae-Na Lee</b>, Vikas Ashok, I. V. Ramakrishnan",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1007/978-3-030-60149-2_23",
+      "summary": "HCI International 2020 – Late Breaking Papers: Universal Access and Inclusive Design"
+    },
+    {
+      "name": "Towards Personalized Annotation of Webpages for Efficient Screen-Reader Interaction",
+      "publisher": "<b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1145/3372923.3404815",
+      "summary": "Proceedings of the 31st ACM Conference on Hypertext and Social Media"
+    },
+    {
+      "name": "Detecting Defects in Repeatedly Patterned Image with Spatially Different Level of Noise",
+      "publisher": "Deokyoung Kang, <b>Hae-na Lee</b>, Suk I. Yoo",
+      "releaseDate": "2014",
+      "url": "https://ieeexplore.ieee.org/document/7025659",
+      "summary": "IEEE International Conference on Image Processing"
     }
   ]
+//  "skills": [
+//    {
+//      "name": "Physics",
+//      "level": "Master",
+//      "icon": "fa-solid fa-hashtag",
+//      "keywords": [
+//        "Quantum Mechanics",
+//        "Quantum Computing",
+//        "Quantum Information",
+//        "Quantum Cryptography",
+//        "Quantum Communication",
+//        "Quantum Teleportation"
+//      ]
+//    }
+//  ],
+//  "languages": [
+//    {
+//      "language": "German",
+//      "fluency": "Native speaker",
+//      "icon": ""
+//    },
+//    {
+//      "language": "English",
+//      "fluency": "Fluent",
+//      "icon": ""
+//    }
+//  ],
+//  "interests": [
+//    {
+//      "name": "Physics",
+//      "icon": "fa-solid fa-tag",
+//      "keywords": [
+//        "Quantum Mechanics",
+//        "Quantum Computing",
+//        "Quantum Information",
+//        "Quantum Cryptography",
+//        "Quantum Communication",
+//        "Quantum Teleportation"
+//      ]
+//    }
+//  ],
+//  "references": [
+//    {
+//      "name": "Professor John Doe",
+//      "icon": "fa-solid fa-laptop",
+//      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+//    },
+//    {
+//      "name": "Professor John Doe",
+//      "icon": "fa-solid fa-thumbtack",
+//      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+//    }
+//  ],
+//  "projects": [
+//    {
+//      "name": "Quantum Computing",
+//      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+//      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+//      "startDate": "2018-01-01",
+//      "endDate": "2018-01-01",
+//      "url": "https://example.com"
+//    }
+//  ]
 }
