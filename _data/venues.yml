@@ -9,40 +9,52 @@
 #   color: "#009f36"
 
 ## Conferences
-"CHI":
-  url: https://dl.acm.org/conference/chi
-  color: "#002E8B"
-
-"IUI":
-  url: https://dl.acm.org/conference/iui
-  color: "#002E8B"
-
-"ASSETS":
-  url: https://dl.acm.org/conference/assets
+"ICIP":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings
   color: "#002E8B"
 
 "HT":
   url: https://dl.acm.org/conference/ht
   color: "#002E8B"
 
-"ICMI":
-  url: https://dl.acm.org/conference/icmi
+"HCII":
+  url: https://www.hci.international/
   color: "#002E8B"
 
 "SMC":
   url: https://www.ieeesmc.org/
   color: "#002E8B"
 
-"HCII":
-  url: https://www.hci.international/
+"ASSETS":
+  url: https://dl.acm.org/conference/assets
   color: "#002E8B"
 
-"ICIP":
-  url: https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings
+"IUI":
+  url: https://dl.acm.org/conference/iui
+  color: "#002E8B"
+
+"CHI":
+  url: https://dl.acm.org/conference/chi
   color: "#002E8B"
 
 "TPDL":
   url: https://link.springer.com/book/10.1007/978-3-031-72440-4
+  color: "#002E8B"
+
+"ICMI":
+  url: https://dl.acm.org/conference/icmi
+  color: "#002E8B"
+
+"W4A":
+  url: https://dl.acm.org/conference/w4a
+  color: "#002E8B"
+
+"SIGCSE":
+  url: https://www.sigcse.org/
+  color: "#002E8B"
+
+"CHIIR":
+  url: https://chiir.org/
   color: "#002E8B"
 
 
@@ -65,6 +77,14 @@
 
 "JMIR":
   url: https://jmirpublications.com/
+  color: "#057B46"
+
+"IJHCI":
+  url: https://dl.acm.org/journal/jhci
+  color: "#057B46"
+
+"TWEB":
+  url: https://dl.acm.org/journal/tweb
   color: "#057B46"
 
 
