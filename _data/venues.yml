@@ -11,83 +11,83 @@
 ## Conferences
 "ICIP":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000349/all-proceedings
-  color: "#002E8B"
+  color: "#40659C"
 
 "HT":
   url: https://dl.acm.org/conference/ht
-  color: "#002E8B"
+  color: "#40659C"
 
 "HCII":
   url: https://www.hci.international/
-  color: "#002E8B"
+  color: "#40659C"
 
 "SMC":
   url: https://www.ieeesmc.org/
-  color: "#002E8B"
+  color: "#40659C"
 
 "ASSETS":
   url: https://dl.acm.org/conference/assets
-  color: "#002E8B"
+  color: "#40659C"
 
 "IUI":
   url: https://dl.acm.org/conference/iui
-  color: "#002E8B"
+  color: "#40659C"
 
 "CHI":
   url: https://dl.acm.org/conference/chi
-  color: "#002E8B"
+  color: "#40659C"
 
 "TPDL":
   url: https://link.springer.com/book/10.1007/978-3-031-72440-4
-  color: "#002E8B"
+  color: "#40659C"
 
 "ICMI":
   url: https://dl.acm.org/conference/icmi
-  color: "#002E8B"
+  color: "#40659C"
 
 "W4A":
   url: https://dl.acm.org/conference/w4a
-  color: "#002E8B"
+  color: "#40659C"
 
 "SIGCSE":
   url: https://www.sigcse.org/
-  color: "#002E8B"
+  color: "#40659C"
 
 "CHIIR":
   url: https://chiir.org/
-  color: "#002E8B"
+  color: "#40659C"
 
 
 ## Journals
 "PACMHCI":
   url: https://dl.acm.org/journal/pacmhci
-  color: "#057B46"
+  color: "#2C6E49"
 
 "TACCESS":
   url: https://dl.acm.org/journal/taccess
-  color: "#057B46"
+  color: "#2C6E49"
 
 "TIIS":
   url: https://dl.acm.org/journal/tiis
-  color: "#057B46"
+  color: "#2C6E49"
 
 "TVCG":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945
-  color: "#057B46"
+  color: "#2C6E49"
 
 "JMIR":
   url: https://jmirpublications.com/
-  color: "#057B46"
+  color: "#2C6E49"
 
 "IJHCI":
   url: https://dl.acm.org/journal/jhci
-  color: "#057B46"
+  color: "#2C6E49"
 
 "TWEB":
   url: https://dl.acm.org/journal/tweb
-  color: "#057B46"
+  color: "#2C6E49"
 
 
 ## Thesis
 "Thesis":
-  color: "#F1C2E6"
+  color: "#D4E1C7"

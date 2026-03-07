@@ -13,7 +13,10 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+Please check out my [**Google Scholar Profile**](https://scholar.google.com/citations?user=CbmN5FwAAAAJ&hl=en&oi=ao) for the most up-to-date publications.
+
 <div class="publications">
+
 
 {% bibliography %}
 

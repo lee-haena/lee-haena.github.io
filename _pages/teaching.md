@@ -11,8 +11,12 @@ nav_order: 3
 
 Organize your courses by years, topics, or universities, however you like! -->
 
+---
+##### **Fall 2024 - 2025**
 
-##### **Spring 2024**
+CSE 841: Artificiail Intelligence
+
+##### **Spring 2024 - 2026**
 
 CSE 491: Selected Topics in Computer Science (Human-Computer Interaction)
 

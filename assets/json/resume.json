@@ -127,6 +127,13 @@
   ],
   "awards": [
     {
+      "title": "W4A Best Technical Paper Award",
+      "date": "2025",
+      "awarder": "ACM 22nd International Web for All (W4A) Conference",
+      "url": "",
+      "summary": "W4A 2025 Best Technical Paper Award"
+    },
+    {
       "title": "CHI Honorable Mention Award",
       "date": "2024",
       "awarder": "ACM Conference on Human Factors in Computing Systems (CHI)",
@@ -214,6 +221,62 @@
 //    }
 //  ],
   "publications": [
+    {
+      "name": "Micro-Behavioral Analysis of Online Shopping Patterns for Blind Users",
+      "publisher": "Yash Prakash, Akshay Kolgar Nayak, Nithiya Venkatraman, Sampath Jayarathna, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2026",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3786304.3788841",
+      "summary": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval"
+    },
+    {
+      "name": "VoxVista: Enhancing Screen Reading Experience for Online User Comments",
+      "publisher": "Yash Prakash, Akshay Kolgar Nayak, Mohammed Shoaib Alyaan, Sampath Jayarathna, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2026",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3786304.3788850",
+      "summary": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval"
+    },
+    {
+      "name": "Examining Inclusive Computing Education for Blind Students in India",
+      "publisher": "Akshay Kolgar Nayak, Yash Prakash, Md Javedul Ferdous, Sampath Jayarathna, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1145/3770762.3772669",
+      "summary": "Proceedings of the 57th ACM Technical Symposium on Computer Science Education"
+    },
+    {
+      "name": "Understanding Online Discussion Experiences of Blind Screen Reader Users",
+      "publisher": "Md Javedul Ferdous, Akshay Kolgar Nayak, Yash Prakash, Nithiya Venkatraman, Sampath Jayarathna, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1080/10447318.2025.2589865",
+      "summary": "International Journal of Human–Computer Interaction"
+    },
+    {
+      "name": "Insights in Adaptation: Examining Self-reflection Strategies of Job Seekers with Visual Impairments in India",
+      "publisher": "Akshay Kolgar Nayak, Yash Prakash, Sampath Jayarathna, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1145/3757485",
+      "summary": "Proceedings of the ACM on Human-Computer Interaction"
+    },
+    {
+      "name": "AccessMenu: Enhancing Usability of Online Restaurant Menus for Screen Reader Users",
+      "publisher": "Nithiya Venkatraman, Akshay Kolgar Nayak, Suyog Dahal, Yash Prakash, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1145/3744257.3744275",
+      "summary": "Proceedings of the 22nd International Web for All Conference"
+    },
+    {
+      "name": "QuickQue: Enabling Quick Access to Information in User Reviews for Screen Reader Users",
+      "publisher": "Mohan Sunkara, Akshay Kolgar Nayak, Sandeep Kalari, Yash Prakash, Sampath Jayarathna, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1145/3744257.3744279",
+      "summary": "Proceedings of the 22nd International Web for All Conference"
+    },
+    {
+      "name": "Adapting Online Customer Reviews for Blind Users: A Case Study of Restaurant Reviews",
+      "publisher": "Mohan Sunkara, Akshay Kolgar Nayak, Sandeep Kalari, Yash Prakash, Sampath Jayarathna, <b>Hae-Na Lee</b>, Vikas Ashok",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1145/3744257.3744276",
+      "summary": "Proceedings of the 22nd International Web for All Conference"
+    },
     {
       "name": "Caregiving Artificial Intelligence Chatbot for Older Adults and Their Preferences, Well-Being, and Social Connectivity: Mixed-Method Study",
       "publisher": "Brooke H Wolfe, Yoo Jung Oh, Hyesun Choung, Xiaoran Cui, Joshua Weinzapfel, R Amanda Cooper, <b>Hae-Na Lee</b>, Rebecca Lehto",
