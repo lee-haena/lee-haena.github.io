@@ -57,6 +57,10 @@
   url: https://chiir.org/
   color: "#40659C"
 
+"SIGDIAL":
+  url: https://aclanthology.org/venues/sigdial/
+  color: "#40659C"
+
 
 ## Journals
 "PACMHCI":
